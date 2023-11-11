@@ -7,7 +7,6 @@ public class Product
 
     public Product()
     {
-        // Inicialize as propriedades no construtor
         Id = 0;
         Name = string.Empty;
         Description = string.Empty;
