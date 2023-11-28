@@ -33,7 +33,6 @@ app.UseCors(p => p
    .AllowAnyOrigin()
    .AllowAnyMethod()
    .AllowAnyHeader());
-
 app.MapControllers();
 
 app.Run();
