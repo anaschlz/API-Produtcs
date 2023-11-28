@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anasc\\OneDrive\\Documentos\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj": {}
+    "D:\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anasc\\OneDrive\\Documentos\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj": {
+    "D:\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anasc\\OneDrive\\Documentos\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj",
+        "projectUniqueName": "D:\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj",
         "projectName": "AtividadeFacul",
-        "projectPath": "C:\\Users\\anasc\\OneDrive\\Documentos\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj",
+        "projectPath": "D:\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj",
         "packagesPath": "C:\\Users\\anasc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anasc\\OneDrive\\Documentos\\vscode\\api produto\\AtividadeFacul\\obj\\",
+        "outputPath": "D:\\vscode\\api produto\\AtividadeFacul\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anasc\\AppData\\Roaming\\NuGet\\NuGet.Config"

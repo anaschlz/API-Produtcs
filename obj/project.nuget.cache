@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dPDNgC87WplgWC49A3mqNNahLA0LFmkjapXEBkT5R8+149PYilyQqKYMuPp0HWp788OHsWFJuI9TYRvtZO57Kw==",
+  "dgSpecHash": "SzwXCOwbRxYl3hFO15HWOUu7+TbTXaLPC1EMrQtZk2HZJo93kpcnCr8lp9enLMNkN8vBr3/kw7Tna/qTbK+nMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anasc\\OneDrive\\Documentos\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj",
+  "projectFilePath": "D:\\vscode\\api produto\\AtividadeFacul\\AtividadeFacul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anasc\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\anasc\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

@@ -52,6 +52,7 @@ public class ProductController : ControllerBase
  [HttpPut("{id}")]
     public IActionResult Put(int id, [FromBody] Product updatedItem)
     {
+        Console.WriteLine($"Recebendo solicitação PUT para o produto com ID: {id}");
         var existingItem = _context.Product.FirstOrDefault(item => item.Id == id);
 
         if (existingItem == null)
@@ -59,13 +60,12 @@ public class ProductController : ControllerBase
             return NotFound();
         }
 
-        // Atualize as propriedades do item existente com base nos dados fornecidos
         existingItem.Description = updatedItem.Description;
         existingItem.Name = updatedItem.Name;
         existingItem.Price = updatedItem.Price;
-        // Atualize outras propriedades, se necessário...
+        
 
-        _context.SaveChanges(); // Salve as alterações no banco de dados
+        _context.SaveChanges(); 
 
         return Ok(existingItem);
     }
