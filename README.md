@@ -9,7 +9,7 @@ Certifique-se de ter o ASP.NET 7 instalado em seu ambiente de desenvolvimento. V
 Executando o Projeto
 Clone este repositório em seu ambiente local.
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/anaschlz/API-Produtcs.git
 
 Navegue até o diretório do projeto.
 cd nome-do-repositorio
