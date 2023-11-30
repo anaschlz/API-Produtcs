@@ -29,10 +29,17 @@ app.UseStaticFiles();
 
 app.UseRouting();
 app.UseAuthorization();
+
 app.UseCors(p => p
    .AllowAnyOrigin()
    .AllowAnyMethod()
    .AllowAnyHeader());
+
+app.UseCors(builder => builder.WithOrigins("https://pechinchou.com.br/")
+                                .AllowAnyMethod()
+                                .AllowAnyHeader());
+
 app.MapControllers();
 
 app.Run();
+
