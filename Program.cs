@@ -35,9 +35,6 @@ app.UseCors(p => p
    .AllowAnyMethod()
    .AllowAnyHeader());
 
-app.UseCors(builder => builder.WithOrigins("https://pechinchou.com.br/")
-                                .AllowAnyMethod()
-                                .AllowAnyHeader());
 
 app.MapControllers();
 
